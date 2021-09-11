@@ -1,6 +1,6 @@
 class Config(object):
     LOGGER = True
-    TOKEN = "1870815445:AAEODGdC2uvoxw0vue4sKBeVxH6ZTmACnDw"
+    TOKEN = "1965069129:AAFO3Om7xiK_BoUHJluELv4vZNY2Xw6PYHQ"
     MONGO_URI = "mongodb+srv://username:<password>@cluster0.c11xf.mongodb.net/<dbname>?retryWrites=true&w=majority"
 
 
